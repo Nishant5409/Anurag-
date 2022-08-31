@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.bd{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+#heading{
+    width: 22rem;
+    color: blueviolet;
+    border-bottom: 5px solid rgb(134, 16, 245);
+}
+.stud-form{
+    background-color: rgb(134, 16, 245);
+    margin-top: 1.5rem;
+    color: #fff;
+    font-weight: bold;
+    padding: 1rem 1rem;
+}
+.form-inp{
+    display: flex;
+    margin-top: 1rem;
+}
+.mr-ex:nth-child(1){
+    margin-left: 5rem;
+}
+.table{
+    text-align: center;
+    border: 2px solid darkblue;
+}
+.tb-inp{
+    width: 150px;
+}
+.buttons{
+    margin-top: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b{
+    cursor: pointer;
+}
+#res{
+    margin-left: 24px;
+}
+#i1{
+    margin-left: 51px;
+}
+#i2{
+    margin-left: 54px;
+}
+#i3{
+    margin-left: 33px;
+}
+#i4{
+    margin-left: 75px;
+}
+#i4{
+    margin-left: 75px;
+}
+#i5{
+    margin-left: 14px;
+}
+#i6{
+    margin-left: 79px;
+}
+#i7{
+    margin-left: 75px;
+}
+#i8{
+    margin-left: 110px;
+}
+#i9{
+    margin-left: 74px;
+}
+#i10{
+    margin-left: 97px;
+}
+#i11{
+    margin-left: 73px;
+}
+#i12{
+    margin-left: 79px;
+}
+#i13{
+    margin-left: 25px;
+}
+#i14{
+    margin-left: 41px;
+}
